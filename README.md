@@ -17,10 +17,6 @@ Copy code
 pip install scapy
 Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/harisanees74/network-sniffer.git
-cd network-sniffer
 Usage
 Run the script to start capturing packets:
 
